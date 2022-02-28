@@ -1,4 +1,4 @@
-# DriveUpload
+# Drive Upload
 
 This code uploads a whole directory into Google Drive.
 Drive folder id can be found as the last part of the Google Drive Folder path:
