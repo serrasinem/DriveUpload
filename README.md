@@ -2,7 +2,7 @@
 
 This code uploads a whole directory into Google Drive.
 Drive folder id can be found as the last part of the Google Drive Folder path:
-e.g. from https://drive.google.com/drive/u/0/folders/aaabYFb3F4n8MGlYufkmywpnhNIiikbbb the folder id is: aaabYFb3F4n8MGlYufkmywpnhNIiikbbb
+e.g. from https://drive.google.com/drive/u/0/folders/aaab111ccc2222bbb the folder id is: aaab111ccc2222bbb
 
 ### Requirements:
 
