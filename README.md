@@ -23,7 +23,9 @@ Steps:
 
 4- Select Credentials from the left menu and create OAuth client ID
 
-5- Optional: Download the credentials.json file, put it in the same folder
+5- Click on the client and you will see the id and secret on the right. Fill settings.yaml with these info and call authenticate.py. It will create the credentials.json file automatically
+
+6- Or Optionally: Download the credentials.json file, put it in the same folder.
 
 extra links:
 
