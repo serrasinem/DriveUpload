@@ -10,6 +10,10 @@ pip install pydrive
 
 Follow the steps of authentication: https://pythonhosted.org/PyDrive/quickstart.html#authentication
 
+OR
+
+for remote machine: https://pythonhosted.org/PyDrive/oauth.html
+
 ### Usage:
 
 python upload_to_drive.py --local_path 'directory_to_be_uploaded' --drive_folder_id 'drive_folder_id'
